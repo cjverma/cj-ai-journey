@@ -1,4 +1,22 @@
+# System
 .DS_Store
-.ipynb_checkpoints/
 .virtual_documents/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & project tools
 anaconda_projects/
+data/raw/
+
+# ML artifacts (use W&B or HuggingFace Hub instead)
+*.pth
+wandb/
