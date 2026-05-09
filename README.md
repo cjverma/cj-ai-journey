@@ -3,7 +3,7 @@
 24 months. Complete beginner to production ML engineer.  
 Building every concept from scratch before using any framework that hides it.
 
-**Chiranjay Verma** · [X @cjbuildsai](https://x.com/cjbuildsai) · [cjbuilds.ai](https://cjbuilds.ai) · [LinkedIn](https://linkedin.com/in/chiranjayverma) · [HuggingFace](https://huggingface.co/chiranjay)
+**Chiranjay Verma** · [X @cjbuildsai](https://x.com/cjbuildsai) · [cjbuilds.ai](https://cjbuilds.ai) · [LinkedIn](https://linkedin.com/in/chiranjayverma) · [HuggingFace]((https://huggingface.co/cjverma))
 
 ---
 
